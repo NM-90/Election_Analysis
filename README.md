@@ -21,6 +21,7 @@
   
       Diana DeGette was the winning candidate.  She had 272,892 votes which had the greatest percentage of 73.8% of the total votes. 
   
-  
+  <img width="254" alt="Results" src="https://user-images.githubusercontent.com/111452227/193949584-59ed2b36-aec7-4405-b311-d766593a3ff8.png">
+
 
 **Election Audit Summary**
