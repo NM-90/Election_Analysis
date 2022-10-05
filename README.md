@@ -38,4 +38,10 @@
 **Election Audit Summary**
 
   In summary, the winning candidate is Diana DeGette with 73.8% of the votes.  
+  
   Denver county cast the majority of votes, 82.8% of the 369,711 total votes.  
+
+
+  This script can be applied for any election by replacing the csv file name and exchanging the titles for other relative headers. 
+  
+  Additional analysis can be made on each candidate did by county.  
